@@ -100,7 +100,7 @@
                 <version>2.22.2</version>
                 <configuration>
                     <excludes>
-                        <exlude>StrangeTest</exlude>
+                        <exclude>StrangeTest</exclude>
                     </excludes>
                 </configuration>
             </plugin>
