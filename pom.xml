@@ -80,7 +80,8 @@
                 <artifactId>maven-dependency-plugin</artifactId>
                 <version>3.3.0</version>
                 <configuration>
-                    <outputDirectiry>${project.build.directory}/dependency</outputDirectiry>
+                    <outputDirectory>${project.build.directory}/dependency</outputDirectory>
+
                     <includeScope>compile</includeScope>
                 </configuration>
                 <executions>
